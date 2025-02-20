@@ -1,4 +1,15 @@
+
 # NotasFrontend
+
+## Configuración inicial
+
+Instalar yarn globalmente:
+corepack enable
+borrar package-lock.json
+yarn install
+
+Instalar tailwind:
+yarn add tailwindcss @tailwindcss/postcss postcss --force
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.8.
 
