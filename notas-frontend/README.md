@@ -1,5 +1,9 @@
-
 # NotasFrontend
+
+- Node 22.14.0
+- Yarn
+- Angular 19.1.8
+- Tailwind
 
 ## Configuración inicial
 
